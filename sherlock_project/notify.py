@@ -8,7 +8,7 @@ from colorama import Fore, Style
 import webbrowser
 
 # Global variable to count the number of results.
-globvar = 0
+globvar = 10
 
 
 class QueryNotify:
